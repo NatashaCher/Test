@@ -1,0 +1,1288 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jira</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://natashacher.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEST-8]&nbsp;<a href="https://natashacher.atlassian.net/browse/TEST-8">Отсутствует подсказка о максимальном количестве символов у поля &quot;Название&quot; на странице создания базы</a>
+            <span class="subText">
+               Создано: 20/авг/22                   &nbsp;Обновлено: 21/авг/22
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://natashacher.atlassian.net/secure/BrowseProject.jspa?id=10015">test</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Компоненты:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии Affects:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии исправления:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Баг
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="61ad12b8744c4d006954e0c2"
+                id="word_reporter_61ad12b8744c4d006954e0c2"
+                href="https://natashacher.atlassian.net/secure/ViewProfile.jspa?accountId=61ad12b8744c4d006954e0c2">
+                    Наталья
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Не назначено
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Метки:</b>
+        </td>
+        <td id="labels-10095-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Нет
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Оценка остатка:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Затраченное время:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Исходная оценка:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Среда:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Google Chrome Версия 104.0.5112.101 (Официальная сборка), (64 бит)</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Вложения:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://natashacher.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG файл">
+                    2022-08-20_18-00-30.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Серьёзность:</b></td>
+                <td id="customfield_10031-10095-value" class="value" bgcolor="#ffffff" width="80%">    Minor
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>Зайти в форму создания базы на платформе <a href="https://test.f1golos.ru" class="external-link" rel="nofollow noreferrer"><ins>https://test.f1golos.ru</ins></a></li>
+	<li>Проверить наличие подсказки у поля “Название”</li>
+</ol>
+
+
+<p>ФР: подсказка отсутствует</p>
+
+<p>ОР: подсказка располагается под полем “Название”</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEST-7]&nbsp;<a href="https://natashacher.atlassian.net/browse/TEST-7">Создается база с невалидными данными из валидного файла базы на странице создания базы</a>
+            <span class="subText">
+               Создано: 20/авг/22                   &nbsp;Обновлено: 20/авг/22
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://natashacher.atlassian.net/secure/BrowseProject.jspa?id=10015">test</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Компоненты:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии Affects:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии исправления:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Баг
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="61ad12b8744c4d006954e0c2"
+                id="word_reporter_61ad12b8744c4d006954e0c2"
+                href="https://natashacher.atlassian.net/secure/ViewProfile.jspa?accountId=61ad12b8744c4d006954e0c2">
+                    Наталья
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Не назначено
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Метки:</b>
+        </td>
+        <td id="labels-10094-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Нет
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Оценка остатка:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Затраченное время:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Исходная оценка:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Среда:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Google Chrome Версия 104.0.5112.101 (Официальная сборка), (64 бит)</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Вложения:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://natashacher.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG файл">
+                    2022-08-20_18-16-19.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://natashacher.atlassian.net/images/icons/attach/file.gif" height="16" width="16" border="0" alt="Файл">
+                    невалидные данные.mp4 &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Серьёзность:</b></td>
+                <td id="customfield_10031-10094-value" class="value" bgcolor="#ffffff" width="80%">    Major
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>Зайти в форму создания базы на платформе <a href="https://test.f1golos.ru" class="external-link" rel="nofollow noreferrer"><ins>https://test.f1golos.ru</ins></a></li>
+	<li>В Radio button выбрать пункт “Файл базы”</li>
+	<li>Открыть валидный файл с невалидными данными</li>
+	<li>Корректно заполнить остальные обязательные поля</li>
+	<li>Нажать кнопку “Создать базу”</li>
+</ol>
+
+
+<p>ФР: база создается и отображается в списке;  Status Code: 200 OK</p>
+
+<p>ОР: база с невалидными данными не создается</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEST-5]&nbsp;<a href="https://natashacher.atlassian.net/browse/TEST-5">Система принимает пустые номера при ручном вводе номеров на странице создания базы</a>
+            <span class="subText">
+               Создано: 20/авг/22                   &nbsp;Обновлено: 21/авг/22
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://natashacher.atlassian.net/secure/BrowseProject.jspa?id=10015">test</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Компоненты:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии Affects:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии исправления:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Баг
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="61ad12b8744c4d006954e0c2"
+                id="word_reporter_61ad12b8744c4d006954e0c2"
+                href="https://natashacher.atlassian.net/secure/ViewProfile.jspa?accountId=61ad12b8744c4d006954e0c2">
+                    Наталья
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Не назначено
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Метки:</b>
+        </td>
+        <td id="labels-10092-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Нет
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Оценка остатка:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Затраченное время:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Исходная оценка:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Среда:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Google Chrome Версия 104.0.5112.102 (Официальная сборка), (64 бит)</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Вложения:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://natashacher.atlassian.net/images/icons/attach/file.gif" height="16" width="16" border="0" alt="Файл">
+                    база с пустыми номерами.mp4 &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Серьёзность:</b></td>
+                <td id="customfield_10031-10092-value" class="value" bgcolor="#ffffff" width="80%">    Minor
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>Зайти на страницу создания базы на платформе <a href="https://test.f1golos.ru" class="external-link" rel="nofollow noreferrer"><ins>https://test.f1golos.ru</ins></a></li>
+	<li>В Radio button выбрать пункт “Ручной ввод”</li>
+	<li>Нажать кнопку “Добавить номер”</li>
+	<li>Добавить пустые номера</li>
+	<li>Корректно заполнит обязательные поля</li>
+	<li>Нажать кнопку “Создать базу”</li>
+</ol>
+
+
+<p>ФР: база создается</p>
+
+<p>ОР: система не принимает пустые поля, выдает ошибку и просит корректно заполнить поля</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEST-3]&nbsp;<a href="https://natashacher.atlassian.net/browse/TEST-3">Дефолтное название базы не удаляется при установке курсора в поле &quot;Название&quot; на странице создания базы</a>
+            <span class="subText">
+               Создано: 20/авг/22                   &nbsp;Обновлено: 20/авг/22
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://natashacher.atlassian.net/secure/BrowseProject.jspa?id=10015">test</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Компоненты:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии Affects:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии исправления:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Баг
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="61ad12b8744c4d006954e0c2"
+                id="word_reporter_61ad12b8744c4d006954e0c2"
+                href="https://natashacher.atlassian.net/secure/ViewProfile.jspa?accountId=61ad12b8744c4d006954e0c2">
+                    Наталья
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Не назначено
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Метки:</b>
+        </td>
+        <td id="labels-10090-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Нет
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Оценка остатка:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Затраченное время:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Исходная оценка:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Среда:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Google Chrome Версия 104.0.5112.101 (Официальная сборка), (64 бит)</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Вложения:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://natashacher.atlassian.net/images/icons/attach/file.gif" height="16" width="16" border="0" alt="Файл">
+                    дефолтное название базы.mp4 &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Серьёзность:</b></td>
+                <td id="customfield_10031-10090-value" class="value" bgcolor="#ffffff" width="80%">    Trivial
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>Зайти на страницу создания базы на платформе <a href="https://test.f1golos.ru" class="external-link" rel="nofollow noreferrer"><ins>https://test.f1golos.ru</ins></a></li>
+	<li>Установить курсор в поле “Название”</li>
+</ol>
+
+
+
+
+<p>ФР: дефолтное название базы не удаляется</p>
+
+<p>ОР: дефолтное название базы удаляется</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEST-2]&nbsp;<a href="https://natashacher.atlassian.net/browse/TEST-2">Ошибка в подсказке формата номеров допустимых для ввода из буфера обмена/из файла базы на странице создания базы</a>
+            <span class="subText">
+               Создано: 20/авг/22                   &nbsp;Обновлено: 20/авг/22
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://natashacher.atlassian.net/secure/BrowseProject.jspa?id=10015">test</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Компоненты:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии Affects:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии исправления:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Баг
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="61ad12b8744c4d006954e0c2"
+                id="word_reporter_61ad12b8744c4d006954e0c2"
+                href="https://natashacher.atlassian.net/secure/ViewProfile.jspa?accountId=61ad12b8744c4d006954e0c2">
+                    Наталья
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Не назначено
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Метки:</b>
+        </td>
+        <td id="labels-10089-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Нет
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Оценка остатка:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Затраченное время:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Исходная оценка:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Среда:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Google Chrome Версия 104.0.5112.101 (Официальная сборка), (64 бит)</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Вложения:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://natashacher.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG файл">
+                    2022-08-20_19-03-45.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://natashacher.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG файл">
+                    2022-08-20_19-04-14.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Серьёзность:</b></td>
+                <td id="customfield_10031-10089-value" class="value" bgcolor="#ffffff" width="80%">    Trivial
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>Зайти на страницу создания базы на платформе <a href="https://test.f1golos.ru" class="external-link" rel="nofollow noreferrer"><ins>https://test.f1golos.ru</ins></a></li>
+	<li>Проверить правильность подсказки</li>
+</ol>
+
+
+<p>ФР: в номере 700000000000 - 12 знаков</p>
+
+<p>ОР: в каждом номере 11 знаков</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEST-1]&nbsp;<a href="https://natashacher.atlassian.net/browse/TEST-1">Система принимает невалидное количество символов в поле &quot;Название&quot; на странице создания базы</a>
+            <span class="subText">
+               Создано: 20/авг/22                   &nbsp;Обновлено: 20/авг/22
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://natashacher.atlassian.net/secure/BrowseProject.jspa?id=10015">test</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Компоненты:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии Affects:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии исправления:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Баг
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="61ad12b8744c4d006954e0c2"
+                id="word_reporter_61ad12b8744c4d006954e0c2"
+                href="https://natashacher.atlassian.net/secure/ViewProfile.jspa?accountId=61ad12b8744c4d006954e0c2">
+                    Наталья
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Не назначено
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Метки:</b>
+        </td>
+        <td id="labels-10088-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Нет
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Оценка остатка:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Затраченное время:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Исходная оценка:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Среда:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Google Chrome Версия 104.0.5112.101 (Официальная сборка), (64 бит)</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Вложения:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://natashacher.atlassian.net/images/icons/attach/file.gif" height="16" width="16" border="0" alt="Файл">
+                    невалидное количество символов.mp4 &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Серьёзность:</b></td>
+                <td id="customfield_10031-10088-value" class="value" bgcolor="#ffffff" width="80%">    Major
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>Открыть форму создания базы на платформе <a href="https://test.f1golos.ru" class="external-link" rel="nofollow noreferrer"><ins>https://test.f1golos.ru</ins></a></li>
+	<li>В поле “Название” ввести невалидное количество символов (256), например:</li>
+</ol>
+
+
+<p><em>Мы вынуждены отталкиваться от того, что современная методология разработки не оставляет шанса для экономической целесообразности принимаемых решений. Учитывая ключевые сценарии поведения, базовый вектор развития требует от нас анализа дальнейших направлени</em></p>
+
+<p>   3. Корректно заполнить обязательные поля</p>
+
+<p>   4. Нажать кнопку “Создать базу”</p>
+
+
+
+<p>ФР: система принимает невалидные данные и сервер не может обработать запрос</p>
+
+<p>ОР: система не принимает невалидные данные, выдает ошибку и просит корректно заполнить поле</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Полученный Sun Aug 21 16:38:32 UTC 2022 Наталья используя JIRA 1001.0.0-SNAPSHOT#100205-sha1:6417f3fff3782260380045a261ca0d6c774e0360.
+
+</body>
+</html>
